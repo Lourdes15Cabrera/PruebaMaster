@@ -16,7 +16,7 @@ public class Formulario extends javax.swing.JFrame {
      */
     public Formulario() {
         initComponents();
-        setLocationRelatieTo(null);
+        setLocationRelativeTo(null);
     }
 
     /**
